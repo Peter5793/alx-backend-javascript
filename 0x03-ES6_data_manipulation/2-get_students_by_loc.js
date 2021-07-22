@@ -6,7 +6,6 @@ const getStudentByLocation = (students, city) => {
   );
 
   return studentsLocation;
-
 };
 
 export default getStudentByLocation;
